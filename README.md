@@ -2,9 +2,7 @@
 
 Walk into famous paintings. A 3D museum where you physically approach masterpieces on the walls and step inside them as immersive, explorable worlds.
 
-https://github.com/user-attachments/assets/placeholder
-
-https://github.com/galileo-ml/marble-hackathon/raw/main/Musee%20de%20Monde.mp4
+https://github.com/user-attachments/assets/bb6bbcb1-b1f7-43ef-9790-204c931e9aaf
 
 ## How It Works
 
